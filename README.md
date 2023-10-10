@@ -17,16 +17,16 @@ The "Bike Shopping App with Custom Shape" is a mobile application developed usin
 ## Screenshots
 
 <div style="display: flex; flex-direction: row;">
-    <img src="images/image0002.jpeg" alt="Screen 1" width="185" height="400">
-    <img src="images/image0003.jpeg" alt="Screen 2" width="185" height="400">
-    <img src="images/image0001.jpeg" alt="Screen 2" width="185" height="400">
+    <img src="images/image0002.png" alt="Screen 1" width="185" height="400">
+    <img src="images/image0003.png" alt="Screen 2" width="185" height="400">
+    <img src="images/image0001.png" alt="Screen 3" width="185" height="400">
 </div>
 
 ---
 
 ## Developer
 
-<img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 80px height= 80px border-radius= 50% >
+<img src="images/profile-icon.png" alt="Developer Image" width= 80px height= 80px border-radius= 50% >
 <b><i>Rahil Shaikh</i></b>
 <br>
 <br>
@@ -37,17 +37,17 @@ The "Bike Shopping App with Custom Shape" is a mobile application developed usin
 ## Social Handles
 
 <div style="display: inline-block; text-align: center;">
-    <img src="ReadMeFileData/linkedin.png" alt="linkedin" width="20" height="20">
+    <img src="images/linkedin.png" alt="linkedin" width="20" height="20">
     <a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
 </div>
 <br>
 <div style="display: inline-block; text-align: center;">
-    <img src="ReadMeFileData/github.png" alt="github" width="20" height="20">
+    <img src="images/github.png" alt="github" width="20" height="20">
     <a href="https://github.com/RaahilShaikh">raahilshaikh</a>
 </div>
 <br>
 <div style="display: inline-block; text-align: center;">
-    <img src="ReadMeFileData/mail.png" alt="mail" width="20" height="20">
+    <img src="images/mail.png" alt="mail" width="20" height="20">
     <a href="mailto:rahils416@gmail.com">rahils416@gmail.com</a>
 </div>
 
