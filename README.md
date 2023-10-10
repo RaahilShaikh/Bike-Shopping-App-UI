@@ -17,9 +17,9 @@ The "Bike Shopping App with Custom Shape" is a mobile application developed usin
 ## Screenshots
 
 <div style="display: flex; flex-direction: row;">
-    <img src="images/image0002.png" alt="Screen 1" width="185" height="400">
-    <img src="images/image0003.png" alt="Screen 2" width="185" height="400">
-    <img src="images/image0001.png" alt="Screen 3" width="185" height="400">
+![image00002.png](images%2Fimage00002.png)
+![image00003.png](images%2Fimage00003.png)
+![image00001.png](images%2Fimage00001.png)
 </div>
 
 ---
