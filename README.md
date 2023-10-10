@@ -1,16 +1,54 @@
-# bicycle_shopping_app
+# Bike Shopping App with custom shape
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+The "Bike Shopping App with Custom Shape" is a mobile application developed using Flutter and Dart. It allows users to browse and shop for bicycles with a unique and visually appealing custom shape design. This project demonstrates the capabilities of Flutter and leverages the GetX library for state management and navigation.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse a wide selection of bicycles with custom shape designs.
+- View detailed product information, including specifications, prices, and customer reviews.
+- Add items to the shopping cart.
+- Seamless navigation between different sections of the app.
+- User-friendly and visually appealing design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<div style="display: flex; flex-direction: row;">
+    <img src="images/image0002.jpeg" alt="Screen 1" width="185" height="400">
+    <img src="images/image0003.jpeg" alt="Screen 2" width="185" height="400">
+    <img src="images/image0001.jpeg" alt="Screen 2" width="185" height="400">
+</div>
+
+---
+
+## Developer
+
+<img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 80px height= 80px border-radius= 50% >
+<b><i>Rahil Shaikh</i></b>
+<br>
+<br>
+<p>Experienced Flutter developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development. Strong engineering professional with a Master of Computer Applications - MCA focused in Information Technology from Sarvajanik College of Engineering & Technology.</p>
+
+---
+
+## Social Handles
+
+<div style="display: inline-block; text-align: center;">
+    <img src="ReadMeFileData/linkedin.png" alt="linkedin" width="20" height="20">
+    <a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
+</div>
+<br>
+<div style="display: inline-block; text-align: center;">
+    <img src="ReadMeFileData/github.png" alt="github" width="20" height="20">
+    <a href="https://github.com/RaahilShaikh">raahilshaikh</a>
+</div>
+<br>
+<div style="display: inline-block; text-align: center;">
+    <img src="ReadMeFileData/mail.png" alt="mail" width="20" height="20">
+    <a href="mailto:rahils416@gmail.com">rahils416@gmail.com</a>
+</div>
+
+---

@@ -15,9 +15,13 @@ class Assets {
   static const String iconsIcSearch = 'icons/ic_search.png';
   static const String iconsIcSelectedHeart = 'icons/ic_selectedHeart.png';
   static const String iconsIcUnion = 'icons/ic_union.png';
+  static const String imagesImage00001 = 'images/image00001.jpeg';
+  static const String imagesImage00002 = 'images/image00002.jpeg';
+  static const String imagesImage00003 = 'images/image00003.jpeg';
   static const String imagesImgBicycle1 = 'images/img_bicycle1.png';
   static const String imagesImgBicycle2 = 'images/img_bicycle2.png';
   static const String imagesImgBicycle3 = 'images/img_bicycle3.png';
   static const String imagesImgHelmet = 'images/img_helmet.png';
+  static const String imagesProfileIcon = 'images/profile-icon.png';
 
 }
