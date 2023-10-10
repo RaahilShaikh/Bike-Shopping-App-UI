@@ -1,0 +1,1 @@
+enum FontFamily { extraBold, bold, semiBold, medium, regular}

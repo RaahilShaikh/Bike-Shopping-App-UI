@@ -1,0 +1,1 @@
+export './productDataModel.dart';
